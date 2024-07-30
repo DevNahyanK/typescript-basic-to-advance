@@ -1,0 +1,12 @@
+{
+  "name": "step10b_any__unknown_never_types",
+  "version": "1.0.0",
+  "description": "[Any Type](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
